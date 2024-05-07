@@ -6,7 +6,7 @@
 ## 📌 Visão Geral
 Este projeto visa conduzir uma análise exploratória dos dados para entender como são os comportamentos dos clientes da empresa com relação as campanhas de marketing realizadas. Utilizei técnicas de análise de dados para identificar padrões e erros de dados.
 
-📄 [Veja minha apresentação](https://github.com/guilhermediasmartins2/CaseIfood/blob/master/reports/Case_Marketink.pdf)
+📄 [Veja minha apresentação](https://github.com/guilhermediasmartins2/CaseIfood/blob/master/reports/Case_Marketing.pptx)
 
 📄 [Veja meu notebook](https://github.com/guilhermediasmartins2/CaseIfood/blob/master/notebooks/Case%20Ifood.ipynb)
 
