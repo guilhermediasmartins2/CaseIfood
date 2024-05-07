@@ -6,7 +6,7 @@
 ## 📌 Visão Geral
 Este projeto visa conduzir uma análise exploratória dos dados para entender como são os comportamentos dos clientes da empresa com relação as campnhas de marketing realizadas. Utilizei técnicas de análise de dados para identificar padrões e erros de dados.
 
-📄 [Veja o template da apresentação](https://github.com/danielesantiago/TemplatePED/blob/master/reports/Template_Case.pptx)
+📄 [Veja minha apresentação](https://github.com/guilhermediasmartins2/CaseIfood/blob/master/reports/Case_Marketink.pdf)
 
 📄 [Veja o template do notebook](https://github.com/danielesantiago/TemplatePED/blob/master/notebooks/Case%20Fraude.ipynb)
 
