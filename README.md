@@ -1,10 +1,10 @@
 # Análise de Campanhas de Marketing
 
-![image](https://github.com/danielesantiago/TemplatePED/assets/64613885/cc24a702-46b8-4263-a764-8c65c56f02ac)
+![image](https://github.com/guilhermediasmartins2/CaseIfood/blob/master/reports/figures/Online_Shoping_29.jpg)
 
 
 ## 📌 Visão Geral
-Este projeto visa [insira o objetivo principal do projeto aqui, por exemplo, "analisar dados de vendas para identificar tendências de mercado"]. Utilizamos [insira as técnicas utilizadas, por exemplo, "técnicas avançadas de análise de dados, machine learning e processamento de linguagem natural"] para [insira o resultado esperado do projeto, por exemplo, "identificar padrões de compra e prever tendências futuras"].
+Este projeto visa conduzir uma análise exploratória dos dados para entender como são os comportamentos dos clientes da empresa com relação as campnhas de marketing realizadas. Utilizei técnicas de análise de dados para identificar padrões e erros de dados.
 
 📄 [Veja o template da apresentação](https://github.com/danielesantiago/TemplatePED/blob/master/reports/Template_Case.pptx)
 
